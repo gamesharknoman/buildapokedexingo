@@ -8,21 +8,21 @@ Current features
 - Pokedex
 
 Map:
-map
-Displays next page of locations/area
+- map
+- Displays next page of locations/area
 
 Mapb:
-mapb
-Displays previous page of locations/area
+-mapb
+-Displays previous page of locations/area
 
 Catch:
-catch [pokemonname]
-Attempts to catch [pokemonname]
+- catch [pokemonname]
+- Attempts to catch [pokemonname]
 
 Inspect:
-inspect [pokemonname]
-Attempts to get [pokemonname]'s data and display said data
+- inspect [pokemonname]
+- Attempts to get [pokemonname]'s data and display said data
 
 Pokedex:
-pokedex
-Displays current caught pokemon
+- pokedex
+- Displays current caught pokemon
